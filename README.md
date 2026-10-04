@@ -99,5 +99,7 @@ Power BI Desktop (Datenmodell, DAX, bedingte Formatierung, Kartenvisual), Power 
 
 ## Autorin
 
-Denise de Assis
+
+**Denise De Assis** · Data Analyst / Data Scientist
+[LinkedIn](https://www.linkedin.com/in/denise-assis-de/) · [GitHub](https://github.com/DeniAssis)
 
