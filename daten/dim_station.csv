@@ -1,0 +1,6 @@
+﻿StationID,Station,Reihenfolge
+S1,Zuschnitt,1
+S2,Vormontage,2
+S3,Montage,3
+S4,Verkabelung,4
+S5,Prüfung,5
